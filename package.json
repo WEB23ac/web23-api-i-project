@@ -1,0 +1,23 @@
+{
+  "name": "web23-api-i-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WEB23ac/web23-api-i-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WEB23ac/web23-api-i-project/issues"
+  },
+  "homepage": "https://github.com/WEB23ac/web23-api-i-project#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
